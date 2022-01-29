@@ -1,6 +1,6 @@
 
 @font-face {
-  font-family: logofont_Helvetica;
+  font-family: fontfam_Helvetica;
   src: url("https://rzel.github.io/fonts/HelveticaLTStd-Bold.woff") format("woff");
   font-weight: normal;
   font-style: normal;
@@ -8,7 +8,7 @@
 
 
 @font-face {
-  font-family: logofont_HelveticaRounded;
+  font-family: fontfam_HelveticaRounded;
   src: url("https://rzel.github.io/fonts/HelveticaRoundedLTStd-Bd.woff") format("woff");
   font-weight: normal;
   font-style: normal; 
@@ -16,7 +16,7 @@
 
 
 @font-face {
-  font-family: logofont_Futura;
+  font-family: fontfam_Futura;
   src: url("https://rzel.github.io/fonts/FuturaStd-Bold.woff") format("woff");
   font-weight: normal;
   font-style: normal; 
@@ -24,7 +24,7 @@
 
 
 @font-face {
-  font-family: logofont_Eurostile;
+  font-family: fontfam_Eurostile;
   src: url("https://rzel.github.io/fonts/EurostileLTStd-BoldEx2.woff") format("woff");
   font-weight: normal;
   font-style: normal; 
@@ -32,7 +32,7 @@
 
 
 @font-face {
-  font-family: logofont_Clarendon;
+  font-family: fontfam_Clarendon;
   src: url("https://rzel.github.io/fonts/ClarendonEF-BoldExpanded.woff") format("woff");
   font-weight: normal;
   font-style: normal; 
@@ -40,7 +40,7 @@
 
 
 @font-face {
-  font-family: logofont_Rockwell;
+  font-family: fontfam_Rockwell;
   src: url("https://rzel.github.io/fonts/RockwellStd-Bold.woff") format("woff");
   font-weight: normal;
   font-style: normal; 
@@ -48,7 +48,7 @@
 
 
 @font-face {
-  font-family: logofont_Garamond;
+  font-family: fontfam_Garamond;
   src: url("https://rzel.github.io/fonts/ITCGaramondStd-Bk.woff") format("woff");
   font-weight: normal;
   font-style: normal; 
@@ -57,7 +57,7 @@
 
 
 @font-face {
-  font-family: logofont_Bodoni;
+  font-family: fontfam_Bodoni;
   src: url("https://rzel.github.io/fonts/BodoniStd-Bold.woff") format("woff");
   font-weight: normal;
   font-style: normal;
@@ -65,7 +65,7 @@
 
 
 @font-face {
-  font-family: logofont_Didot;
+  font-family: fontfam_Didot;
   src: url("https://rzel.github.io/fonts/DidotLTStd-Bold.woff") format("woff");
   font-weight: normal;
   font-style: normal; 
@@ -73,7 +73,7 @@
 
 
 @font-face {
-  font-family: logofont_Catull;
+  font-family: fontfam_Catull;
   src: url("https://rzel.github.io/fonts/CatullBQ-Bold.woff") format("woff");
   font-weight: normal;
   font-style: normal; 
@@ -81,7 +81,7 @@
 
 
 @font-face {
-  font-family: logofont_ZapfChancery;
+  font-family: fontfam_ZapfChancery;
   src: url("https://rzel.github.io/fonts/ZapfChanceryStd-Bold.woff") format("woff");
   font-weight: normal;
   font-style: normal; 
@@ -89,11 +89,41 @@
 
 
 @font-face {
-  font-family: logofont_BlackRose;
+  font-family: fontfam_BlackRose;
   src: url("https://rzel.github.io/fonts/BlackRose.woff") format("woff");
   font-weight: normal;
   font-style: normal; 
 }
+
+//-----------------------------------------------------------------------------------------------------------
+
+@font-face {
+  font-family: fontfam_OpenSansCondensedL;
+  src: url("https://rzel.github.io/fonts/OpenSansCondensed-Light.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: fontfam_OpenSansCondensedLI;
+  src: url("https://rzel.github.io/fonts/OpenSansCondensed-LightItalic.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: fontfam_OpenSansCondensedB;
+  src: url("https://rzel.github.io/fonts/OpenSansCondensed-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
+
+
+
 
 
 
